@@ -1,1 +1,1 @@
-# Medical-Chatbot-using-llma2
+# Medical-Chatbot-using-llama2
